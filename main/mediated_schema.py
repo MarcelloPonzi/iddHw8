@@ -88,27 +88,8 @@ df_merged.to_csv("../MergedDS/ds_output.csv", sep=';')
 ## FASE DI PULIZIA DEL DATAFRAME, VORREMMO RIMUOVERE TUTTE LE COLONNE CHE NON FANNO PARTE DELLO SCHEMA MEDIATO DEFINITO
 
 # lista delle colonne che ci servono per lo schema mediato
-# cols_to_keep = ["stock", "name", "industry", "market_cap", "ceo", "country", "founded_year", "web_page"]
-# ds_filtered = df_merged
-# cols_to_drop = [col for col in df_merged.columns if col not in cols_to_keep]  #prende le colonne che non fanno parte dello schema mediato DA SISTEMARE
-# df_filtered = df.drop(cols_to_drop, axis=1)
-# ds_filtered.to_csv("../MergedDS/ds_output-filtered.csv", sep=';')
-
-'''
-path1 = './DatasetHW8/avengers-companiesmarketcap.jsonl'
-path2 = './DatasetHW8/GioPonSpiz-companiesmarketcap.com.json'
-
-df1 = readAny(path1)
-df2 = readAny(path2)
-
-print(df1)
-print(df2)
-
-# Unisci i DataFrames in base alle colonne "colonna_x" e "colonna_y"
-df_merged = pd.merge(df1, df2, left_on='Name', right_on='name', how='outer')
-
-print(df_merged)
-
-# Salva i risultati in un file CSV
-df_merged.to_csv("risultatiMergeTest.csv", index=False)
-'''
+cols_to_keep = ["stock", "name", "industry", "market_cap", "ceo", "country", "founded_year", "web_page"]
+cols_to_drop = [col for col in df_merged.columns if col not in cols_to_keep]  #prende le colonne che non fanno parte dello schema mediato DA SISTEMARE
+print(cols_to_drop)
+df_filtered = df_merged.drop(axis=1, columns=cols_to_drop)
+df_filtered.to_csv("../MergedDS/ds_output-filtered.csv", sep=';')
