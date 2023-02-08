@@ -64,9 +64,9 @@ if __name__ == '__main__':
     # ## Setup
 
     input_file = '../MergedDS/ds_output-filtered.csv'
-    output_file = 'csv_example_output.csv'
-    settings_file = 'csv_example_learned_settings'
-    training_file = 'csv_example_training.json'
+    output_file = 'ds_with_confidenceScore.csv'
+    settings_file = './DedupeConfigFiles/csv_example_learned_settings'
+    training_file = './DedupeConfigFiles/csv_example_training.json'
 
     print('importing data ...')
     data_d = readData(input_file)
@@ -84,6 +84,8 @@ if __name__ == '__main__':
             {'field': 'name', 'type': 'String'},
             {'field': 'country', 'type': 'String', 'has missing': True},
             {'field': 'stock', 'type': 'String', 'has missing': True},
+            {'field': 'ceo', 'type': 'String', 'has missing': True},
+            {'field': 'founded_year', 'type': 'String', 'has missing': True},
             ]
 
         # Create a new deduper object and pass our data model to it.
