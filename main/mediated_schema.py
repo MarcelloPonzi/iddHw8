@@ -66,7 +66,7 @@ def dataset_to_dataframe_array(folder_path):
 #################################
 
 # Una volta eseguita la funzione non serve rifarlo ogni volta
-# put_all_columns_in_lowercase('../DatasetHW8Formattato/')
+put_all_columns_in_lowercase('../DatasetHW8Formattato/')
 
 df_array = dataset_to_dataframe_array('DatasetHW8Lowercase/')
 print(df_array)
@@ -92,4 +92,5 @@ cols_to_keep = ["stock", "name", "industry", "market_cap", "ceo", "country", "fo
 cols_to_drop = [col for col in df_merged.columns if col not in cols_to_keep]  #prende le colonne che non fanno parte dello schema mediato DA SISTEMARE
 print(cols_to_drop)
 df_filtered = df_merged.drop(axis=1, columns=cols_to_drop)
-df_filtered.to_csv("../MergedDS/ds_output-filtered.csv", sep=';')
+df_filtered.to_csv("../MergedDS/ds_output-filtered.csv")
+df_filtered.to_json("../MergedDS/ds_output-filtered.json")
