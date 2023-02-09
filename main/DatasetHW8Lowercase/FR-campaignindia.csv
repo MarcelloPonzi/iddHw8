@@ -1,0 +1,1001 @@
+,rank,name,industry,main market,2010 rank
+0,1,Sony,Consumer electronics,Regional,1
+1,2,Samsung,Electronics/White goods,Regional,2
+2,3,Panasonic,Consumer electronics,Regional,3
+3,4,LG,Electronics/White goods,Regional,4
+4,5,Canon,Camera/Office equipment,Regional,5
+5,6,Apple,Mobile Phone,Regional,9
+6,7,Hewlett-Packard,Computer,Regional,10
+7,8,Google,Internet search engine,Regional,6
+8,9,Nestlé,Food and drink,Regional,8
+9,10,Nike,Sports retail,Regional,13
+10,11,McDonald’s,Fast food,Regional,12
+11,12,adidas,Sports retail,Regional,16
+12,13,Coca-Cola,Soft drinks,Regional,11
+13,14,7-Eleven,Convenience store,Regional,17
+14,15,Starbucks,Coffee chain,Regional,14
+15,16,Colgate,Toothpaste,Regional,18
+16,17,Facebook,Social networking,Regional,20
+17,18,Yahoo,Internet search engine,Regional,7
+18,19,Honda,Car/Motorcycle,Regional,15
+19,20,Toshiba,Electronics/White goods,Regional,26
+20,21,Microsoft,Computer Software,Regional,22
+21,22,Maggi,Instant Noodles,Regional,29
+22,23,Lotte,Chewing/ Bubble gum,"Japan, Korea",21
+23,24,KFC,Fast-Food,"Greater China, Southeast Asia",24
+24,25,Nikon,Camera,Regional,30
+25,26,Hitachi,Consumer Electronics,Regional,25
+26,27,Sharp,Consumer Electronics,Regional,23
+27,28,Nokia,Mobile Phone,Regional,19
+28,29,Playstation,Gaming Console,Regional,60
+29,30,Chanel,Fragrance/Perfume/Luxury Fashion Retailer,Regional,28
+30,31,Dove,Shower Gel/Soap /Shampoo,Regional,36
+31,32,Pepsi,Carbonated Soft Drink,Regional,35
+32,33,Nescafé,Coffee,Regional,45
+33,34,Cadbury,Chocolate,Regional,37
+34,35,Mitsubishi,Consumer electronics,Regional,32
+35,36,Epson,Printer,Regional,50
+36,37,Uni-president,Instant Noodles,Greater China,39
+37,38,Yamaha,Motorcycle,Regional,33
+38,39,Shell,Petrol/Gas Station,"Greater China, Southeast Asia",46
+39,40,DHL,Courier Company,Regional,47
+40,41,Toyota,Car/Automobile,Regional,43
+41,42,Rolex,Watch,Regional,42
+42,43,Meiji,Food,Regional,27
+43,44,Darlie,Toothpaste,"Greater China, Southeast Asia",55
+44,45,Michelin,Tyre,Regional,48
+45,46,Nintendo,Gaming Console,Regional,31
+46,47,Lux,Shower Gel/Soap,Regional,52
+47,48,Häagen-Dazs,Ice-cream,Regional,61
+48,49,BMW,Car/Automobile,Regional,54
+49,50,Dell,Computer,Regional,62
+50,51,Bridgestone,Tyre,Regional,53
+51,52,VISA,Credit Card,Regional,63
+52,53,L’Oréal,Cosmetics/Skincare Shampoo,Regional,57
+53,54,Pantene,Shampoo,Regional,77
+54,55,Shiseido,Cosmetics,Regional,34
+55,56,Pampers,Diaper,Regional,41
+56,57,Philips,Consumer Electronics,Regional,49
+57,58,Air Asia,Budget Airlines,Southeast Asia,66
+58,59,Mercedes-Benz,Car/Automobile,Regional,70
+59,60,Twitter,Social Networking Site,Regional,123
+60,61,Watsons,Pharmacy/Drugstore,"Greater China, Southeast Asia",44
+61,62,Nivea,Skincare,Regional,56
+62,63,FamilyMart,Convenience Store,"Taiwan, Thailand",85
+63,64,HSBC,Bank,Regional,81
+64,65,Citibank,Bank,Regional,78
+65,66,Christian Dior,Fragrance/Perfume/Cosmetics,Regional,67
+66,67,Nissin,Instant Noodles,Regional,82
+67,68,Huggies,Diaper,Regional,65
+68,69,FedEx,Courier Company,"Greater China, Southeast Asia",58
+69,70,Acer,Computer,Regional,76
+70,71,Pocari Sweat,Sports Drink,Regional,69
+71,72,Kao,Detergent,"Greater China, Southeast Asia",71
+72,73,Ferrero Rocher,Chocolate,Regional,90
+73,74,AIA,Insurance,Regional,88
+74,75,Singapore,Full-service Airlines,"Greater China, Southeast Asia",74
+75,76,Lipton,Tea,Regional,40
+76,77,Marlboro,Cigarette,Regional,59
+77,78,MasterKong,Instant Noodles,Greater China,114
+78,79,MasterCard,Credit Card,Regional,91
+79,80,Gatorade,Sports Drink,Regional,68
+80,81,Gucci,Luxury Fashion Retailer,Regional,64
+81,82,Kellogg’s,Cereal,Regional,92
+82,83,Heineken,Beer,Regional,95
+83,84,Daikin,Air Conditioner,"Japan, Singapore",94
+84,85,Head & Shoulders,Shampoo,Regional,98
+85,86,SK-II,Female Skincare Product,Regional,104
+86,87,Wrigley’s Arrow,Chewing/Bubble Gum,Regional,83
+87,88,Sanyo,Consumer Electronics,Regional,75
+88,89,Amul,Milk powder/Milk/Ice-cream,India,73
+89,90,Hyundai,Car/Automobile,Regional,100
+90,91,Lancomé,Cosmetics/Fagrance/Female Skincare,Regional,122
+91,92,Seiko,Watch,Regional,109
+92,93,Wall’s,Ice-cream,Regional,121
+93,94,Casio,Watch,Regional,111
+94,95,Xbox,Gaming Console,Regional,131
+95,96,Tesco,Supermarket,"Malaysia, Thailand",126
+96,97,NTUC FairPrice,Supermarket,Singapore,89
+97,98,Whirlpool,White Goods,Regional,107
+98,99,Olay,Female Skincare Product,Regional,106
+99,100,HTC,Mobile Phone,Regional,532
+100,101,Evian,Mineral Water,Regional,105
+101,102,Haier,Consumer Electronics,"China, India",108
+102,103,Sunsilk,Shampoo,Regional,115
+103,104,Hilton,Hotel,Regional,125
+104,105,Cathay Pacific,Full-service Airlines,Regional,93
+105,106,Heinz,Baby Food (excluding milk powder),Regional,79
+106,107,Sony Ericsson,Mobile Phone,Regional,72
+107,108,100 Plus,Sports Drink,"Southeast Asia, India",120
+108,109,Morinaga,Sweets and Candy,"China, Japan",87
+109,110,Breeze,Detergent,"Southeast Asia, Taiwan",155
+110,111,Caltex,Petrol/Gas Station,Regional,124
+111,112,Vodafone,Mobile Service Provider,Regional,165
+112,113,Esso,Petrol/Gas Station,"China, Japan, Southeast Asia",153
+113,114,Johnson & Johnson,Personal Care,Regional,86
+114,115,Calvin Klein,Fragrance/Perfume/Luxury Fashion Retailer,Regional,101
+115,116,Kingfisher,Beer/Full-service Airlines,India,140
+116,117,Fujitsu,Computer,Regional,134
+117,118,Guardian,Pharmacy/Drugstore,"Australia, Southeast Asia",84
+118,119,Suzuki,Motorcycle,Regional,102
+119,120,Baskin Robbins,Ice-cream,Regional,173
+120,121,Lenovo,Computer,Regional,170
+121,122,Omega,Watch,Regional,132
+122,123,Louis Vuitton (LV),Luxury Fashion Retailer,Regional,118
+123,124,Wellcome,Supermarket,"Hong Kong, Taiwan",146
+124,125,Coles,Supermarket,Australia,127
+125,126,Armani,Men’s Fashion Retailer,Regional,117
+126,127,Lee Kum Kee,Sauce/Condiment,"China, Southeast Asia",194
+127,128,Johnnie Walker,Spirits,Regional,133
+128,129,Reebok,Sporting Apparel,Regional,188
+129,130,Lay’s,Snack Food,Regional,147
+130,131,Marigold,Fruit Juice,"Malaysia, Singapore",129
+131,132,Circle K,Convenience Store,"China, Japan",185
+132,133,Harley Davidson,Motorcycle,Regional,143
+133,134,Goodyear,Tyre,Regional,138
+134,135,Quaker,Cereal,"Malaysia, Singapore",97
+135,136,Carlsberg,Beer,Regional,130
+136,137,Puma,Sporting Equipment/Apparel,Regional,167
+137,138,Jetstar,Budget Airlines,"Australia, Southeast Asia",137
+138,139,Thai Airways,Full-service Airlines,Regional,151
+139,140,Asus,Computer,Regional,199
+140,141,JVC,Camcorder,Regional,116
+141,142,Prudential (UK),Insurance,Regional,161
+142,143,Maxims,Coffee,"Hong Kong, Japan, Korea",190
+143,144,Lion,Toothpaste,Regional,181
+144,145,BlackBerry,Mobile Phone,Regional,446
+145,146,Olympus,Camera,Regional,174
+146,147,Extra,Chewing/Bubble Gum,Regional,176
+147,148,Suntory,Spirits/Beer,"China, Japan, Korea, Taiwan",227
+148,149,Garnier,Skincare Product,"Australia, India, Southeast Asia",195
+149,150,Rejoice,Shampoo,Regional,148
+150,151,Virgin,Full-service Airlines,Regional,168
+151,152,Doublemint,Chewing/Bubble Gum,Regional,184
+152,153,Palmolive,Shower Gel/Soap,Regional,152
+153,154,IBM,Computer,Regional,150
+154,155,Mamy Poko,Diaper,"China, Japan, Southeast Asia",142
+155,156,Dettol,Shower Gel/Soap,"Australia, China",198
+156,157,Estée Lauder,Cosmetics,Regional,145
+157,158,Clinique,Female Skincare Product/Cosmetics,Regional,113
+158,159,Mengniu,Milk,China,206
+159,160,Lindt,Chocolate,Regional,259
+160,161,Hershey’s,Chocolate,Regional,268
+161,162,Cartier,Jewellery,Regional,169
+162,163,Malaysia Airlines,Full-service Airlines,Regional,164
+163,164,Tropicana,Fruit Juice,Regional,204
+164,165,Baidu,Internet Search Engine,China,186
+165,166,Pond’s,Female Skincare Product,Regional,228
+166,167,Dutch Lady,Milk,Regional,159
+167,168,Bank of China,Bank,"China, Hong Kong",254
+168,169,BATA,Shoes,"India, Singapore",157
+169,170,Carrefour,Supermarket,"China, Japan, Southeast Asia",141
+170,171,Tsingtao,Beer,"China, Singapore",158
+171,172,Maybank,Bank,"Malaysia, Singapore",207
+172,173,Kirin,Beer,"China, Japan, Korea",189
+173,174,Kookmin Bank (KB),Bank,Korea,212
+174,175,Dunlop,Tyre,Regional,149
+175,176,Red Bull,Sports Drink,Regional,192
+176,177,UPS,Courier Company,Regional,200
+177,178,Tiger Airways,Budget Airlines,Regional,154
+178,179,Swensen’s,Ice-cream,Singapore,253
+179,180,Pedigree,Pet Food,Regional,110
+180,181,Naver,Internet Search Engine,Korea,103
+181,182,Wei Chuan,Food and Beverage,"China, Taiwan",163
+182,183,China Mobile,Mobile Service Provider,China,203
+183,184,Big Bazaar,Supermarket,India,248
+184,185,Dove (Chocolate),Chocolate,"China, Taiwan",201
+185,186,Mama,Instant Noodles,"Hong Kong, Thailand",211
+186,187,CPC (Taiwan),Petrol/Gas Station,Taiwan,215
+187,188,Bing,Internet Search Engine,Regional,591
+188,189,Standard Chartered,Bank,"Hong Kong, Southeast Asia",336
+189,190,Siemens,Consumer Electronics,Regional,234
+190,191,ANA,Full-service Airlines,Regional,219
+191,192,Tiffany & Co.,Jewellery,Regional,144
+192,193,Minute Maid,Fruit Juice,China,265
+193,194,Burger King,Fast-Food,Regional,222
+194,195,Tiger Beer,Beer,Southeast Asia,183
+195,196,Singtel,Mobile Service Provider,Singapore,244
+196,197,Korean Air,Full-service Airlines,Korea,171
+197,198,NTT,Mobile Service Provider,Japan,250
+198,199,Qantas,Full-service Airlines,Regional,210
+199,200,Nongshim,Instant Noodles,"China, Korea",236
+200,201,Ralph Lauren,Men’s Fashion Retailer/Fragrance,Regional,177
+201,202,Siam Commercial Bank,Bank,Thailand,230
+202,203,Asiana,Full-service Airlines,Korea,197
+203,204,Park n shop,Supermarket,"China, Hong Kong",231
+204,205,Seoul Milk,Milk,Korea,179
+205,206,G2000,Men’s and Women’s Fashion Retailer,"China, Southeast Asia",208
+206,207,SK Telecom,Mobile Service Provider,Korea,225
+207,208,Dunhill,Cigarette,Regional,139
+208,209,Adobe,Computer Software,Regional,269
+209,210,Shinhan bank,Bank,Korea,242
+210,211,Lotteria,Fast-Food,Korea,275
+211,212,Kuroneko Yamato,Courier Company,Japan,251
+212,213,DBS,Bank,Singapore,271
+213,214,Pioneer,Consumer Electronics,Regional,162
+214,215,ICICI Bank,Bank,India,182
+215,216,State Bank of India (SBI),Bank,India,226
+216,217,Telstra,Mobile Service Provider,Australia,345
+217,218,Citizen,Watch,Regional,223
+218,219,Dumex,Milk Powder,"China, India, Southeast Asia",180
+219,220,Avon,Cosmetics,Regional,119
+220,221,Airtel,Mobile Service Provider,India,301
+221,222,Sinopec,Petrol/Gas Station,"China, Hong Kong",214
+222,223,Asahi,Beer,Regional,375
+223,224,PTT,Petrol/Gas Station,Thailand,261
+224,225,Coffee Bean,Coffee Shop,"Australia, Southeast Asia",217
+225,226,Mos Burger,Fast-Food,"Japan, Hong Kong, Singapore",300
+226,227,China Airlines,Full-service Airlines,Regional,175
+227,228,NEC,Computer,Regional,263
+228,229,Sunkist,Fruit Juice,Regional,316
+229,230,KTF,Mobile Service Provider,Korea,294
+230,231,Japan Airlines (JAL),Full-service Airlines,Japan,196
+231,232,China Trust,Bank,Taiwan,427
+232,233,Woolworths,Supermarket,Australia,235
+233,234,Sprite,Carbonated Soft Drink,Regional,283
+234,235,Shangri-La,Hotel,Regional,202
+235,236,Yili,Milk,"China, Hong Kong",216
+236,237,Electrolux,White Goods,Regional,367
+237,238,F&N,Carbonated Soft Drink,"Malaysia, Singapore",246
+238,239,Chunghwa Telecom (CHT),Mobile Service Provider,Taiwan,172
+239,240,ICBC Asia,Bank,China,332
+240,241,Tag Heuer,Watch,Regional,321
+241,242,China Merchants Bank,Credit Card/Bank,China,351
+242,243,The Body Shop,Shower Gel/Soap,"China, Southeast Asia",241
+243,244,Giant,Supermarket,"India, Malaysia, Singapore",276
+244,245,Old Town,Coffee Shop,Malaysia,233
+245,246,Hankook,Tyre,Korea,New entry
+246,247,Taiwan Beer,Beer,Taiwan,270
+247,248,Bulgari,Fragrance/Jewellery,Regional,218
+248,249,Nissan,Car/Automobile,Regional,370
+249,250,Kumkang,Men’s Shoes,Korea,255
+250,251,Emirates,Full-service Airlines,Regional,479
+251,252,LIC,Insurance,India,290
+252,253,Kasikorn Bank,Bank,Thailand,299
+253,254,Fisher & Paykel,White Goods,Singapore,359
+254,255,Sensodyne,Toothpaste,Regional,287
+255,256,Yokohama,Tyre,Regional,224
+256,257,Brother,Printer,Regional,344
+257,258,British Petroleum (BP),Petrol/Gas Station,"Australia, Southeast Asia",320
+258,259,Hyatt,Hotel,Regional,262
+259,260,Supau,Sports Drink,Taiwan,258
+260,261,CPC (China),Petrol/Gas Station,China,295
+261,262,Moccona,Coffee,"Australia, Singapore",465
+262,263,Powerade,Sports Drink,"Australia, Hong Kong, Japan",281
+263,264,Cafe Coffee Day,Coffee,India,396
+264,265,Advance Info Service,Mobile Service Provider,Thailand,337
+265,266,MSN,Social Networking site,Regional,99
+266,267,OMO,Detergent,"Australia, China",395
+267,268,Singha,Beer,"Hong Kong, Thailand",324
+268,269,Subway,Fast-Food,"Australia, China, Southeast Asia",472
+269,270,Titan,Watch,India,292
+270,271,Chow Tai Fook,Jewellery,"China, Hong Kong",323
+271,272,Lawson,Convenience Store,"China, Japan",331
+272,273,SK,Petrol/Gas Station,"Korea, Singapore",260
+273,274,DTAC,Mobile Service Provider,Thailand,315
+274,275,Ethnicans,Savoury Snack Food,Hong Kong,New entry
+275,276,Godiva,Chocolate,Regional,380
+276,277,Pacific Coffee,Coffee Shop,Hong Kong,322
+277,278,Audi,Car/Automobile,Regional,394
+278,279,Amway,Toothpaste,Regional,191
+279,280,Café De Coral,Fast-Food,Hong Kong,335
+280,281,Surf,Detergent,"Australia, India",399
+281,282,GS 25,Convenience Store,Korea,713
+282,283,Mild Seven,Cigarette,Regional,229
+283,284,Maxis,Mobile Service Provider,Malaysia,277
+284,285,Kawasaki,Motorcycle,Regional,390
+285,286,Bru,Coffee,"India, Malaysia, Singapore",306
+286,287,Fab,Detergent,"Hong Kong, Southeast Asia",309
+287,288,Lakme,Cosmetics,India,289
+288,289,Optus,Mobile Service Provider,Australia,305
+289,290,HDFC Bank,Bank,India,341
+290,291,Pringles,Snack Food,Regional,334
+291,292,Westinghouse,White Goods,"Australia, Singapore",297
+292,293,Haitai,Food,Korea,187
+293,294,Oishi,Tea,Thailand,326
+294,295,Bangkok Bank,Bank,Thailand,298
+295,296,Nok Air,Budget Airlines,Thailand,267
+296,297,Attack,Detergent,"China, Southeast Asia",274
+297,298,Samyang,Instant Noodles,Korea,313
+298,299,Clarks,Men’s Shoes,Regional,243
+299,300,Vita,Beverage,"Hong Kong, Taiwan",291
+300,301,Pokka,Beverage,"Japan, Singapore",537
+301,302,Cheers,Convenience Store,Singapore,296
+302,303,Petronas,Petrol/Gas Station,Southeast Asia,282
+303,304,Apollo,Pharmacy/Drugstore,India,342
+304,305,Mentos,Sweets and Candy,Regional,205
+305,306,Jusco,Supermarket,"Hong Kong, China, Japan",220
+306,307,Namyang,Milk Powder/Milk,Korea,193
+307,308,Kopitiam,Coffee Shop,Singapore,329
+308,309,Daum,Internet Search Engine,Korea,156
+309,310,Ping An Insurance,Insurance,China,353
+310,311,Kuang-Chuan,Milk,Taiwan,362
+311,312,Tatung,Consumer Electronics,Taiwan,429
+312,313,Midea,White Goods,China,539
+313,314,Magnolia,Milk,"Malaysia, Singapore",178
+314,315,Swatch,Watch,Regional,286
+315,316,Maeil,Milk,Korea,213
+316,317,Revlon,Cosmetics,Regional,401
+317,318,Nongfu Shan Quan,Mineral Water,China,478
+318,319,Great Eastern,Insurance,"Malaysia, Singapore",403
+319,320,Hang Seng Bank,Bank,Hong Kong,247
+320,321,Wai Wai,Instant Noodles,"Hong Kong, Thailand",360
+321,322,Maybelline,Cosmetics,Regional,245
+322,323,StarHub,Mobile Service Provider,Singapore,378
+323,324,Kodak,Camera,Regional,232
+324,325,Outback,Restaurant Chain,"Korea, China",431
+325,326,Madras Rubber Factory,Tyre,"India, Malaysia",387
+326,327,Glico,Snack Food,"Japan, China",237
+327,328,Mr. Brown,Coffee,"Hong Kong, Taiwan",355
+328,329,Dairy Farm,Milk,"Australia, Hong Kong",239
+329,330,Fuji,Camera,Regional,391
+330,331,Vidal Sassoon,Shampoo,Regional,397
+331,332,Hugo Boss,Fragrance,Regional,340
+332,333,Chivas,Spirits,Regional,350
+333,334,Bisleri,Mineral Water,"Australia, India",368
+334,335,AXA,Insurance,"Hong Kong, Southeast Asia",471
+335,336,Taj,Hotel,India,304
+336,337,United Overseas Bank,Bank,"Malaysia, Singapore",374
+337,338,Hite,Beer,Korea,460
+338,339,Ariel,Detergent,"China, India",424
+339,340,Dynamo,Detergent,"Malaysia, Singapore",412
+340,341,Biotherm,Skincare Product,Regional,249
+341,342,Malee,Fruit Juice,"Japan, Thailand",328
+342,343,China Unicom,Mobile Service Provider,China,364
+343,344,Burberry,Luxury Fashion Retailer,Regional,288
+344,345,Cosmed,Pharmacy/Drugstore,Taiwan,369
+345,346,M&M’s,Chocolate,Regional,266
+346,347,Manning’s,Pharmacy/Drugstore,Hong Kong,272
+347,348,Prada,Luxury Fashion Retailer,Regional,252
+348,349,Sheraton,Hotel,Regional,393
+349,350,CIMB Bank,Bank,Malaysia,411
+350,351,China Southern Airlines,Full-service Airlines,"China, Hong Kong",382
+351,352,UCC,Coffee,"Japan, China",440
+352,353,Airwaves,Chewing/Bubble Gum,"Australia, China",377
+353,354,Kumho,Tyre,Korea,325
+354,355,Sponsor,Sports Drink,Thailand,376
+355,356,GS Caltex,Petrol/Gas Station,Korea,541
+356,357,Eva Air,Full-service Airlines,Taiwan,278
+357,358,Kissan,Sauce/Condiment,India,482
+358,359,Bose,Home Audio,Regional,535
+359,360,Kelvinator,White Goods,India,317
+360,361,OCBC,Bank,"Malaysia, Singapore",405
+361,362,Ford,Car/Automobile,Regional,420
+362,363,Teco,White Goods,Taiwan,464
+363,364,Air China,Full-service Airlines,China,436
+364,365,Fubon,Insurance,"Hong Kong, Taiwan",511
+365,366,Softbank,Mobile Service Provider,Japan,512
+366,367,Hey Song,Carbonated Soft Drink,Taiwan,333
+367,368,Del Monte,Fruit Juice,"Hong Kong, Southeast Asia",339
+368,369,Maxwell House,Coffee,"China, Southeast Asia",381
+369,370,Kia,Car/Automobile,Regional,480
+370,371,Cheil Jedang (CJ),Sauce/Condiment,Korea,771
+371,372,Barista Lavazza (India),Coffee Shop,India,534
+372,373,Sagawa,Courier Company,Japan,400
+373,374,Tao Ti,Tea,Hong Kong,809
+374,375,Shokubutsu,Shower Gel/Soap,Japan,379
+375,376,Pepsodent,Toothpaste,"Australia, India",406
+376,377,Cold Storage,Supermarket,"Malaysia, Singapore",338
+377,378,Mr. Juicy,Fruit Juice,China,327
+378,379,Aquarius,Sports Drink,"Japan, Malaysia",357
+379,380,Nippon Oil Corporation,Petrol/Gas Station,Japan,New entry
+380,381,American Express,Credit Card,Regional,425
+381,382,Orion,Snack Food,"Korea, China",438
+382,383,Tipco,Fruit Juice,Thailand,356
+383,384,Reliance (RIL),Pharmacy/Drugstore,"India, Malaysia",492
+384,385,3,Mobile Service Provider,Hong Kong,352
+385,386,Bioré,Skincare Product,Regional,280
+386,387,Orkut,Social Networking Site,"Australia, India",416
+387,388,Aekyung 2080,Toothpaste,Korea,631
+388,389,Anlene,Milk Powder,Singapore,354
+389,390,Aeon,Supermarket,Japan,495
+390,391,Bally,Men’s Shoes,"Japan, China",422
+391,392,Gloria Jeans,Coffee Shop,"Australia, Singapore",409
+392,393,Gree,White Goods,China,310
+393,394,Kwality,Ice-cream,India,496
+394,395,Celcom,Mobile Service Provider,Malaysia,418
+395,396,Mother Dairy,Milk,India,273
+396,397,China Eastern Airlines,Full-service Airlines,China,421
+397,398,China Construction Bank,Bank,China,458
+398,399,Cass,Beer,Korea,435
+399,400,SF Express,Courier Company,China,717
+400,401,Kanebo,Cosmetics,"Japan, Taiwan",257
+401,402,Chow Sang Sang,Jewellery,"China, Hong Kong",372
+402,403,Foremost,Milk,Thailand,238
+403,404,Spritzer,Mineral Water,Malaysia,419
+404,405,Ferrari,Car/Automobile,Regional,610
+405,406,Doutor,Coffee Shop,Japan,388
+406,407,Formosa Petrochemical,Petrol/Gas Station,Taiwan,384
+407,408,Hush Puppies,Men’s Shoes,Regional,417
+408,409,Boss,Fragrance/Men’s Fashion Retailer,Regional,240
+409,410,VIPS,Restaurant Chain,Korea,529
+410,411,Bajaj,Motorcycle,India,563
+411,412,Nestea,Tea,Regional,989
+412,413,Schweppes,Mineral Water/Carbonated Soft Drink,Hong Kong,462
+413,414,M1,Mobile Service Provider,Singapore,463
+414,415,Carrier,Air Conditioner,"China, Southeast Asia",570
+415,416,Halls,Sweets and Candy,"Southeast Asia, Japan",648
+416,417,Boh,Tea,"Malaysia, Singapore",209
+417,418,MUFG,Bank,Japan,568
+418,419,MK suki,Restaurant Chain,Thailand,503
+419,420,Sugus,Sweets and Candy,"China, Southeast Asia",279
+420,421,Ghana,Chocolate,Korea,415
+421,422,AU,Mobile Service Provider,Japan,311
+422,423,Macleans,Toothpaste,Australia,798
+423,424,Crest,Toothpaste,"China, Hong Kong",455
+424,425,Close up,Toothpaste,"India, Southeast Asia",777
+425,426,Whiskas,Pet Food,Regional,285
+426,427,Mead Johnson,Milk Powder,"China, Southeast Asia",404
+427,428,Maruti,Car/Automobile,India,413
+428,429,POSB,Bank,Singapore,607
+429,430,ANZ,Bank,Australia,487
+430,431,Abbott,Milk Powder,"China, Singapore",497
+431,432,Van Houten,Chocolate,Regional,466
+432,433,T-cat,Courier Company,Taiwan,519
+433,434,Motorola,Mobile Phone,Regional,293
+434,435,Indian Oil Corporation,Petrol/Gas Station,India,642
+435,436,Crocodile,Men’s Fashion Retailer,Regional,349
+436,437,Pizza Hut,Restaurant Chain,Regional,135
+437,438,Real,Fruit Juice,"Australia, India",586
+438,439,Xiaonei/Renren,Social Networking Site,China,New entry
+439,440,Dentyne,Chewing/Bubble Gum,"Malaysia, Thailand",398
+440,441,Four Seasons,Hotel,Regional,673
+441,442,Peters,Ice-cream,Australia,450
+442,443,TNT,Courier Company,Regional,572
+443,444,Budweiser,Beer,Regional,521
+444,445,Berri,Fruit Juice,"Australia, Singapore",523
+445,446,Ben & Jerry’s,Ice-cream,Singapore,555
+446,447,Commonwealth,Bank,Australia,498
+447,448,Tata,Automobile,India,256
+448,449,Doll,Instant Noodles,"China, Hong Kong",509
+449,450,Mobil,Petrol/Gas Station,"Australia, Hong Kong",516
+450,451,Taiwan Mobile,Mobile Service Provider,Taiwan,307
+451,452,Amore Pacific,Cosmetics,Korea,319
+452,453,Jet Airways,Full-service Airlines,"India, Hong Kong",408
+453,454,SYM,Motorcycle,Taiwan,451
+454,455,Kikkoman,Sauce/Condiment,"Australia, Singapore",526
+455,456,Kowloon Dairy,Milk,Hong Kong,493
+456,457,Walmart,Supermarket,"China, India, Southeast Asia",543
+457,458,Zipel,White Goods,Korea,470
+458,459,Oral B,Toothpaste,"Australia, Southeast Asia",581
+459,460,Compaq,Computer,Regional,430
+460,461,Dreyer’s,Ice-cream,Hong Kong,601
+461,462,Firefly,Budget Airlines,Malaysia,518
+462,463,Kymco,Motorcycle,Taiwan,459
+463,464,Guess,Watch,Southeast Asia,410
+464,465,Golden Mountain,Sauce/Condiment,Thailand,New entry
+465,466,IGA,Convenience Store/Supermarket,Australia,659
+466,467,Cathay Life,Insurance,Taiwan,New entry
+467,468,MAC,Cosmetics,Regional,385
+468,469,Perrier,Mineral Water,Regional,434
+469,470,Korea Express,Courier Company,Korea,New entry
+470,471,Calbee,Snack Food,"China, Southeast Asia",221
+471,472,Cyworld,Social Networking Site,Korea,449
+472,473,Wyeth,Milk Powder,"China, Southeast Asia",392
+473,474,Clinic,Shampoo,India,802
+474,475,Hanjin,Courier Company,Korea,New entry
+475,476,Jeju Air,Budget Airlines,Korea,423
+476,477,Air India,Full-service Airlines,India,580
+477,478,Korea Post,Courier Company,Korea,New entry
+478,479,HL,Milk,"Malaysia, Singapore",571
+479,480,Hui Yuan,Fruit Juice,China,347
+480,481,Digi,Mobile Service Provider,Malaysia,533
+481,482,Shinramyun,Instant Noodles,"Korea, China",574
+482,483,85°C,Coffee Shop,Taiwan,456
+483,484,Lin Fong Ying (LFY),Milk,Taiwan,584
+484,485,Salvatore Ferragamo,Women’s Shoes,"Hong Kong, Japan",553
+485,486,Donna Karan (DKNY),Fragrance/Watch,Regional,443
+486,487,Godrej,Consumer Electronics,India,389
+487,488,Zara,Men’s and Women’s Fashion Retailer,Regional,348
+488,489,Pauls,Milk,Australia,452
+489,490,Hero Honda,Motorcycle,India,365
+490,491,Myojo,Instant Noodles,India,589
+491,492,Westpac,Bank,Australia,549
+492,493,Vaseline,Female Skincare Product,Regional,550
+493,494,Nissay,Insurance,Japan,New entry
+494,495,Top Ramen,Instant Noodles,Korea,545
+495,496,Hungry Jack’s,Fast-Food,Australia,800
+496,497,Neutrogena,Female Skincare Product,Regional,414
+497,498,Fairwood,Fast-Food,"China, Hong Kong",617
+498,499,Chupa Chups,Sweets and Candy,"Australia, Hong Kong",622
+499,500,Peninsula,Hotel,Regional,556
+500,501,Matsumoto Kiyoshi,Pharmacy/Drugstore,Japan,330
+501,502,Li Ning,Sporting Apparel,"China, Hong Kong",468
+502,503,Twisties,Savoury Snack Food,Regional,485
+503,504,Bear Brand,Milk/Milk Powder,Thailand,794
+504,505,My space,Social Networking Site,Regional,504
+505,506,Snow Brand,Milk Powder/Milk,"Hong Kong, Japan",166
+506,507,Kagome,Sauce/Condiment,Japan,528
+507,508,Tissot,Watch,Regional,727
+508,509,JCB,Credit Card,Japan,510
+509,510,Kimlan,Sauce/Condiment,"Hong Kong, Taiwan",538
+510,511,Iriver,Personal portable music player,"China, Korea",494
+511,512,Bull-Dog,Sauce/Condiment,Japan,660
+512,513,Longines,Watch,Regional,546
+513,514,Amoy,Sauce/Condiment,"China, Hong Kong",501
+514,515,Krung Thai,Bank,Thailand,639
+515,516,Fanta,Carbonated Soft Drink,Regional,448
+516,517,Mixi,Social Networking Site,Japan,358
+517,518,Zhonghua (Cigarette),Cigarette,China,481
+518,519,Meiji (Milk Powder),Milk Powder,"Hong Kong, Japan",New entry
+519,520,Volvic,Mineral Water,Regional,636
+520,521,China Life,Insurance,China,520
+521,522,ING,Insurance,"Hong Kong, Singapore",502
+522,523,TRUE,Mobile Service Provider,Thailand,719
+523,524,Videocon,Consumer Electronics,India,386
+524,525,Gusto,Restaurant Chain,Japan,561
+525,526,Xu Fu Ji,Sweets and Candy,China,506
+526,527,Tide,Detergent,Regional,583
+527,528,Manulife,Insurance,"China, Singapore",626
+528,529,CSL,Mobile Service Provider,Hong Kong,457
+529,530,IndoMie,Instant Noodles,Regional,903
+530,531,Safeguard,Shower Gel/Soap,China,629
+531,532,Holden,Car/Automobile,Australia,715
+532,533,Aquafina,Mineral Water,"China, Hong Kong, India",661
+533,534,Panadol,Over-the-counter Pharmaceuticals,Regional,361
+534,535,Chilsung Cider,Mineral Water,Korea,578
+535,536,Shilla,Hotel,Korea,544
+536,537,Regal,Men’s Shoes,Japan,439
+537,538,Mazda,Car/Automobile,Regional,590
+538,539,Allen’s,Sweets and Candy,Australia,577
+539,540,FETnet,Mobile Service Provider,Taiwan,469
+540,541,S26,Milk Powder,"China, Southeast Asia",630
+541,542,Fruit Tree,Fruit Juice,"Malaysia, Singapore",611
+542,543,Paos,Detergent,"Taiwan, Thailand",595
+543,544,York,Air Conditioner,"China, Malaysia",709
+544,545,China Pacific Insurance,Insurance,China,835
+545,546,Hermès,Luxury Fashion Retailer,Regional,433
+546,547,Hai Tian,Sauce/Condiment,China,895
+547,548,DHC,Female Skincare Product,"China, Japan, Korea",371
+548,549,Crystal Jade,Restaurant Chain,"Hong Kong, Singapore",594
+549,550,Volkswagen,Car/Automobile,Regional,612
+550,551,Blue Dart,Courier Company,India,670
+551,552,Nan Shan,Insurance,Taiwan,587
+552,553,Drypers,Diaper,India,683
+553,554,ASO,Men’s/Women’s Shoes,Taiwan,343
+554,555,White Rabbit,Sweets and Candy,Regional,559
+555,556,Sumitomo Misui (SMBC),Bank,Japan,New entry
+556,557,Marriott,Hotel,Regional,453
+557,558,SpiceJet Airlines,Budget Airlines,"India, Malaysia",507
+558,559,Pentax,Camera,Regional,863
+559,560,Lexus,Car/Automobile,Regional,833
+560,561,Pon Pon,Shower Gel/Soap,Taiwan,781
+561,562,Public Bank,Bank,Malaysia,837
+562,563,ICICI Prudential,Insurance,India,New entry
+563,564,Yves Saint Laurent (YSL),Fragrance/Luxury Fashion Retailer,Regional,500
+564,565,Masterfood,Sauce/Condiment,Australia,847
+565,566,PosLaju,Courier Company,Malaysia,646
+566,567,Habib Jewels,Jewellery,Malaysia,513
+567,568,PCCW,Mobile Service Provider,Hong Kong,663
+568,569,Yum Yum,Instant Noodles,Thailand,710
+569,570,7-Up,Carbonated Soft Drink,"Australia, China",548
+570,571,Spencer,Convenience Store/Supermarket,India,748
+571,572,China-SSS,Budget Airlines,China,New entry
+572,573,Poh Kong,Jewellery,Malaysia,536
+573,574,Dragonair,Full-service Airlines,"Hong Kong, China",547
+574,575,Little Swan,White Goods,China,917
+575,576,Dairy Farmers,Milk,Australia,540
+576,577,Maidong,Sports Drink,China,724
+577,578,Thai Post,Courier Company,Thailand,635
+578,579,Cerelac,Baby Food (excluding milk powder),"Australia, India",308
+579,580,Top,Detergent,"Japan, Malaysia, Singapore",441
+580,581,H-TWO-O,Sports Drink,Singapore,718
+581,582,Patek Philippe,Watch,Regional,New entry
+582,583,Rolls Royce,Car/Automobile,Regional,991
+583,584,NAB,Bank,Australia,828
+584,585,Thai Life Insurance,Insurance,Thailand,New entry
+585,586,Clear,Shampoo,"China, India, Southeast Asia",831
+586,587,Chiclet,Chewing/Bubble Gum,Southeast Asia,484
+587,588,Kaixin001,Social Networking Site,China,599
+588,589,Perioe,Toothpaste,Korea,703
+589,590,Enfa,Milk Powder,Thailand,557
+590,591,Alfred Dunhill,Fragrance,Regional,505
+591,592,TGI Friday’s,Restaurant Chain,Regional,915
+592,593,Wahaha,Mineral Water,China,632
+593,594,Ceat,Tyre,India,874
+594,595,Tanishq,Jewellery,India,700
+595,596,Hennessy,Spirits,Regional,551
+596,597,Homeplus,Supermarket,Korea,793
+597,598,Bright Dairy,Milk,China,407
+598,599,China Telecom,Mobile Service Provider,China,843
+599,600,Angelinus,Coffee Shop,Korea,New entry
+600,601,Creative,Personal portable music player,"Australia, India, Southeast Asia",444
+601,602,Holiday Inn,Hotel,Regional,592
+602,603,AAMI,Insurance,Australia,695
+603,604,Post,Cereal,Regional,657
+604,605,La New,Men’s Shoes,Taiwan,428
+605,606,Lifebuoy,Shower Gel/Soap,Southeast Asia,753
+606,607,Yeo Hiap Seng (YEO),Tea,"Malaysia, Singapore",491
+607,608,Bangchak,Petrol/Gas Station,Thailand,876
+608,609,Esquire,Men’s/Women’s Shoes,Korea,542
+609,610,Moutai,Spirits,"China, Hong Kong",662
+610,611,IndiGo,Budget Airlines,"Hong Kong, India, Korea",797
+611,612,Bank of Ayudhya,Bank,Thailand,New entry
+612,613,Volvo,Automobile/Car,Regional,962
+613,614,Kit Kat,Chocolate,Regional,579
+614,615,Bank of Taiwan,Bank,Taiwan,637
+615,616,S-oil,Petrol/Gas Station,Korea,696
+616,617,BPCL,Petrol/Gas Station,India,704
+617,618,Cintan,Instant Noodles,Malaysia,702
+618,619,Streets,Ice-cream,Australia,812
+619,620,Aura,Mineral Water,Thailand,562
+620,621,Ito-en,Ready-to-drink Tea,Japan,New entry
+621,622,Blue Girl,Beer,Hong Kong,746
+622,623,Kose,Cosmetics,"Japan, Southeast Asia",565
+623,624,Y.E.S Mineral Water,Mineral Water,Taiwan,524
+624,625,Ritz-Carlton,Hotel,"Hong Kong, Singapore, China",638
+625,626,Haldiram,Savoury Snack Food,India,722
+626,627,Milo,Sports Drink,Regional,499
+627,628,General Electric (GE),White Goods,Regional,731
+628,629,Beat,Detergent,Regional,New entry
+629,630,Tops,Supermarket,Thailand,651
+630,631,Woori Bank,Bank,Korea,604
+631,632,Big Babool,Chewing/Bubble Gum,"India, Southeast Asia",795
+632,633,Timberland,Men’s Shoes,Regional,769
+633,634,Nespray,Milk Powder,"China, Southeast Asia",653
+634,635,Sulwhasoo,Female Skincare Product,"Hong Kong, Korea",760
+635,636,Wangsteak,Restaurant Chain,Taiwan,997
+636,637,Koka,Instant Noodles,"India, Malaysia, Singapore",691
+637,638,Mamee,Instant Noodles,"Malaysia, Singapore",488
+638,639,Matsusei,Supermarket,Taiwan,701
+639,640,Lacoste,Luxury Fashion Retailer/Fragrance,Regional,926
+640,641,Idemitsu,Petrol/Gas Station,Japan,738
+641,642,Woodland,Men’s Shoes,India,525
+642,643,San Miguel,Beer,Regional,641
+643,644,Elizabeth Arden,Fragrance,Regional,682
+644,645,Clarins,Skincare Product,Regional,615
+645,646,Black Canyon,Coffee Shop,Thailand,684
+646,647,Sunstar,Toothpaste,Japan,582
+647,648,EMS,Courier Company,China,490
+648,649,Fair and Lovely,Female Skincare Product,"India, Malaysia, Singapore",588
+649,650,Ducati,Motorcycle,Regional,814
+650,651,Dairy Queen,Ice-cream,"China, Southeast Asia",948
+651,652,E-Mart,Supermarket,Korea,707
+652,653,UBC Coffee,Coffee Shop,China,602
+653,654,Oksusu Tea,Ready-to-drink Tea,Korea,New entry
+654,655,Mizuno,Sporting Apparel,"Japan, Korea",830
+655,656,Lucozade,Sports Drink,"China, Hong Kong",783
+656,657,Wuliangye,Spirits,"China, Hong Kong",776
+657,658,Golden Circle,Fruit Juice,"Australia, Singapore",720
+658,659,Levi’s,Men’s and Women’s Fashion Retailer,Regional,527
+659,660,AXE (Detergent),Detergent,Regional,New entry
+660,661,Hacks,Sweets and Candy,Southeast Asia,475
+661,662,Davidoff,Cigarette,Regional,735
+662,663,Krong Thip,Cigarette,Thailand,616
+663,664,XIAO-MEI,Ice-cream,Taiwan,825
+664,665,Merries,Diaper,Japan,605
+665,666,Cha Li Won,Ready-to-drink Tea,Taiwan,836
+666,667,E.SUN,Bank,Taiwan,932
+667,668,QQ,Social Networking Site,"China, Hong Kong",476
+668,669,Bonaqua,Mineral Water,Hong Kong,514
+669,670,Clairol Herbal Essences,Shampoo,"China, Southeast Asia",620
+670,671,Domino’s,Fast-Food,Regional,736
+671,672,Toblerone,Chocolate,Regional,888
+672,673,Wills,Cigarette,"Australia, India",645
+673,674,Bosch,White Goods,Regional,819
+674,675,Takaful,Insurance,Malaysia,706
+675,676,SPC,Petrol/Gas Station,Singapore,861
+676,677,Jack’n Jill,Savoury Snack Food,"Hong Kong, Southeast Asia",765
+677,678,Onida,Consumer Electronics,India,829
+678,679,Salem,Cigarette,Regional,564
+679,680,Dairy Milk,Chocolate,Regional,815
+680,681,Timex,Watch,"India, Southeast Asia, Japan",927
+681,682,Intel,Computer,Regional,980
+682,683,Aoyama,Men’s Fashion Retailer,Japan,593
+683,684,Ba Wang,Shampoo,China,785
+684,685,Dutchmilk,Milk,Thailand,264
+685,686,Anna Sui,Fragrance,Regional,426
+686,687,Mizuho,Bank,Japan,688
+687,688,Max Factor,Cosmetics,Regional,698
+688,689,NPC,Petrol/Gas Station,"China, Taiwan",881
+689,690,Continental,Tyre,Regional,850
+690,691,Fila,Sporting Apparel,Korea,1387
+691,692,Pura,Milk,Australia,945
+692,693,Japan Post (JP),Bank,Japan,804
+693,694,Swarovski,Jewellery,Regional,624
+694,695,Shen Tong,Courier Company,China,897
+695,696,Axis Bank,Bank,India,New entry
+696,697,Khao Shong,Coffee,Thailand,New entry
+697,698,Absolut,Spirits,Regional,754
+698,699,Big C,Supermarket,Thailand,598
+699,700,Metro,Supermarket,India,697
+700,701,Topman/Topshop,Men’s and Women’s Fashion Retailer,"Malaysia, Singapore",925
+701,702,Pears,Personal Care,Australia,New entry
+702,703,Wantwant,Savoury Snack Food,Taiwan,567
+703,704,Dongsuh,Tea/Cereal,Korea,755
+704,705,Zhonghua,Toothpaste,China,New entry
+705,706,Lexmark,Printer,Regional,569
+706,707,Peel Fresh,Fruit Juice,Malaysia,740
+707,708,Arrow,Men’s Fashion Retailer,Southeast Asia,920
+708,709,Luk Fook,Jewellery,"China, Hong Kong",757
+709,710,Boomer,Chewing/Bubble Gum,India,627
+710,711,Ballantine’s,Spirits,Regional,New entry
+711,712,TCL,TV,China,New entry
+712,713,British Airways,Full-service Airlines,Regional,619
+713,714,Porsche,Automobile/Car,Regional,935
+714,715,Muang Thai Insurance,Insurance,Thailand,789
+715,716,Sapporo,Beer,Japan,656
+716,717,Bonia,Women’s Shoes,"Malaysia, Singapore",522
+717,718,Life,Sauce/Condiment,Malaysia,New entry
+718,719,Ice Mountain,Mineral Water,Singapore,654
+719,720,Zanussi,White Goods,"Hong Kong, Malaysia",730
+720,721,Belle,Women’s Shoes,China,613
+721,722,Fernleaf,Milk Powder,Malaysia,796
+722,723,Wei Lih,Instant Noodles,Taiwan,852
+723,724,DTDC,Courier Company,India,734
+724,725,17 Tea,Ready-to-drink Tea,Korea,New entry
+725,726,Grand Hyatt,Hotel,"China, Southeast Asia",937
+726,727,Miwon,Sauce/Condiment,Korea,990
+727,728,Elastine,Shampoo,Korea,672
+728,729,Chang Beer,Beer,Thailand,690
+729,730,Leo,Beer,Thailand,853
+730,731,Giordano,Men’s and Women’s Fashion Retailer,Regional,515
+731,732,Kent,Cigarette,Regional,609
+732,733,Kenwood,Home Audio,Regional,477
+733,734,Mango (MNG),Women’s Fashion Retailer,"China, Southeast Asia",664
+734,735,Yanjing,Beer,China,891
+735,736,Dolce & Gabbana,Fragrance/Luxury Fashion Retailer,Regional,699
+736,737,Royal Host,Restaurant Chain,Japan,900
+737,738,Superbubble,Chewing/Bubble Gum,Taiwan,596
+738,739,Liby,Detergent,China,898
+739,740,Maruchan,Instant Noodles,Japan,686
+740,741,AXE,Fragrance,Regional,644
+741,742,Nestum,Baby Food (excluding milk powder),"India, Southeast Asia",517
+742,743,Oriental,Hotel,"Singapore, Thailand",790
+743,744,Martell,Spirits,"China, Southeast Asia",832
+744,745,Elcanto,Shoes,Korea,879
+745,746,Pxmart,Supermarket,Taiwan,919
+746,747,Kinley,Mineral Water,India,649
+747,748,Cow Soap,Shower Gel/Soap,"Hong Kong, Japan",901
+748,749,Protex,Shower Gel/Soap,Thailand,860
+749,750,Ryoe,Shampoo,Korea,New entry
+750,751,Taishin International Bank,Credit Card/Bank,Taiwan,742
+751,752,Lee Hwa,Jewellery,Singapore,884
+752,753,RT Mart,Supermarket,Taiwan,845
+753,754,Bulla,Ice-cream,Australia,767
+754,755,Renault Samsung Motors,Automobile/Car,Korea,869
+755,756,Parle,Sweets and Candy,India,979
+756,757,Morewater,Mineral Water,Taiwan,708
+757,758,Minere,Mineral Water,Thailand,693
+758,759,Inter-Continental,Hotel,Regional,New entry
+759,760,Shanghaojia,Food,China,New entry
+760,761,Chungjungwon,Sauce/Condiment,Korea,974
+761,762,Boots,Pharmacy/Drugstore,"India, Thailand",573
+762,763,Versace,Luxury Fashion Retailer/Fragrance,Regional,608
+763,764,Yuan Tong Express,Courier Company,China,906
+764,765,Dusit,Hotel,Thailand,882
+765,766,Camel,Cigarette,Regional,625
+766,767,Taywin,Men’s Shoes,Thailand,799
+767,768,Danggimeori,Shampoo,Korea,929
+768,769,TVS,Motorcycle,India,New entry
+769,770,Hubba Bubba,Chewing/Bubble Gum,"Australia, India",786
+770,771,Super Coffee Mix,Coffee,"Malaysia, Singapore",870
+771,772,77,Chocolate,Taiwan,674
+772,773,I-MEI,Sweets and Candy,Taiwan,714
+773,774,Rado,Watch,Regional,779
+774,775,Bubble Yum,Chewing/Bubble Gum,Regional,New entry
+775,776,Knorr,Food,Regional,New entry
+776,777,Pirelli,Tyre,"Australia, India, Southeast Asia",678
+777,778,King’s Creameries,Ice-cream,Singapore,New entry
+778,779,Asics,Sporting Apparel,Japan,New entry
+779,780,Hyundai Logiem,Courier Company,Korea,New entry
+780,781,Indian Airlines,Full-service Airlines,"India, Southeast Asia",761
+781,782,Guinness,Beer,"Australia, China, Southeast Asia",877
+782,783,Sanitarium,Cereal,Australia,784
+783,784,Tung Lok,Restaurant,Singapore,New entry
+784,785,Rin,Detergent,India,848
+785,786,Priceline,Pharmacy/Drugstore,Australia,762
+786,787,Unity Pharmacy,Pharmacy/Drugstore,Singapore,772
+787,788,Café Bene,Coffee Shop,Korea,New entry
+788,789,Norton,Computer Software,Regional,782
+789,790,Victor,Home Audio,Regional,597
+790,791,SE 555,Cigarette,Regional,711
+791,792,Ochaen,Tea,Taiwan,958
+792,793,Friendster,Social Networking Site,Regional,483
+793,794,Sizzler,Restaurant Chain,Australia,774
+794,795,Megumilk,Milk,Japan,756
+795,796,Salz,Toothpaste,Thailand,New entry
+796,797,Diners Club,Credit card,Regional,New entry
+797,798,Wanjashan,Sauce/Condiment,China,944
+798,799,ITC,Hotel,India,New entry
+799,800,Pasteur,Milk,Korea,741
+800,801,Fountain,Sauce/Condiment,Australia,New entry
+801,802,RAC,Insurance,Southeast Asia,803
+802,803,Linux,Computer Software,"China, Southeast Asia",552
+803,804,Friskies,Pet Food,"Australia, Hong Kong",623
+804,805,Cosmo Oil,Petrol/Gas Station,Japan,894
+805,806,Cold Stone,Ice-cream,Regional,New entry
+806,807,Fujiya,Food,Japan,New entry
+807,808,Trident,Chewing/Bubble Gum,Regional,939
+808,809,BC Card,Credit Card,Korea,603
+809,810,Sumitomo Life,Insurance,Japan,849
+810,811,Benson & Hedges,Cigarette,"Australia, India",749
+811,812,Smith’s,Snack Food,Australia,658
+812,813,Oberoi,Hotel,Southeast Asia,995
+813,814,Hi5,Social Networking Site,"Hong Kong, India, Southeast Asia",432
+814,815,KLIM,Milk,China,907
+815,816,Target,Retailer,Australia,810
+816,817,Gillette,Male Skincare Product,Regional,889
+817,818,Amcal,Pharmacy/Drugstore,Australia,743
+818,819,Konka,Consumer Electronics,"China, Hong Kong",New entry
+819,820,Soda,Women’s Shoes,Regional,New entry
+820,821,IFB,Home & Kitchen Appliances,India,New entry
+821,822,Poh Heng,Jewellery,Singapore,New entry
+822,823,Barista (Taiwan),Coffee/Coffee shop,Taiwan,New entry
+823,824,General,Air Conditioner,China,530
+824,825,Kimball,Sauce/Condiment,Malaysia,New entry
+825,826,Mandarin Oriental,Hotel,"Hong Kong, Southeast Asia",768
+826,827,Mirinda,Carbonated Soft Drink,Regional,New entry
+827,828,Aflac,Insurance Provider,Regional,New entry
+828,829,Simpson,Washing Machine,Australia,679
+829,830,Winfield,Cigarette,Australia,966
+830,831,Pierre Cardin,Men’s Shoes/Men’s Fashion Retailer,"China, Southeast Asia",473
+831,832,Taj Mahal (Tea),Tea,India,780
+832,833,Trappist,Milk,Hong Kong,New entry
+833,834,Gold Flake,Cigarette,India,823
+834,835,Agricultural Bank of China,Bank,China,New entry
+835,836,ito Yokado,Supermarket,Japan,983
+836,837,Novotel,Hotel,Regional,681
+837,838,China Mobile (HK),Mobile Service Provider,Hong Kong,New entry
+838,839,KoKo Krunch (Nestlé),Cereal,Regional,New entry
+839,840,NRMA,Insurance,Australia,820
+840,841,Fantastic,Instant Noodles,Australia,New entry
+841,842,Hainan Airlines,Airlines (Budget/Full service),China,New entry
+842,843,Healthy Boy,Sauce/Condiment,Thailand,857
+843,844,Aavin,Milk,India,969
+844,845,Coffee Club,Coffee Shop,Australia,808
+845,846,Aoki,Men’s Fashion Retailer,Japan,801
+846,847,Jimmy Choo,Fashion,Regional,New entry
+847,848,Long Life,Cigarette,Taiwan,665
+848,849,Natural Confectionery Co.,Sweets and Candy,Australia,New entry
+849,850,S&P,Restaurant Chain,Thailand,910
+850,851,Haywards,Beer,India,999
+851,852,Voltas,Air Conditioner,"India, Australia",988
+852,853,Sheng Shiong,Supermarket,Singapore,New entry
+853,854,Trigem,Computer,Korea,New entry
+854,855,Blue Moon,Detergent,China,New entry
+855,856,Aldi,Supermarket,Australia,566
+856,857,Remy Martin,Spirits,Regional,687
+857,858,Cathay United Bank,Bank,Taiwan,813
+858,859,Arnott’s,Savoury Snack Food,Australia,New entry
+859,860,Prouds,Jewellery,Australia,943
+860,861,Uncle Toby,Cereal,Australia,560
+861,862,Capico,Savoury Snack Food,Regional,New entry
+862,863,Imperial Hotel,Hotel,"Japan, Thailand",856
+863,864,Allianz,Insurance Provider,India,New entry
+864,865,Scholl,Shoes,"Malaysia, Singapore",916
+865,866,Pro Sweat,Sports Drink,Taiwan,New entry
+866,867,Mitsuya Cider,Carbonated Soft Drink,Japan,New entry
+867,868,Zhenkungfu,Restaurant,China,New entry
+868,869,Raymonds,Men’s Fashion Retailer,India,976
+869,870,Mr Muscle,Detergent,Regional,986
+870,871,BenQ,Consumer Electronics,Taiwan,New entry
+871,872,Denon,Home Audio,Regional,880
+872,873,Mister Potato,Savoury Snack Food,Southeast Asia,994
+873,874,Saravana Bhavan,Restaurant,"India, Malaysia, Singapore",New entry
+874,875,New Balance,Sporting Apparel,Regional,New entry
+875,876,Ali Café,Coffee,Malaysia,New entry
+876,877,Jin Air,Budget Airlines,Korea,840
+877,878,Aekyung,Shower Gel/Soap,Korea,628
+878,879,Esprit,Men’s and Women’s Fashion Retailer,"China, Southeast Asia",634
+879,880,Choice,Coffee,Thailand,New entry
+880,881,Chemist Warehouse,Pharmacy/Drugstore,Australia,890
+881,882,KTC,Credit Card,Thailand,938
+882,883,Charles & Keith,Women’s Shoes,"Malaysia, Singapore",677
+883,884,Jukyum,Toothpaste,Korea,758
+884,885,Crown,Food,Regional,New entry
+885,886,Nine West,Women’s Shoes,"Singapore, Hong Kong",New entry
+886,887,Happy Bath,Shower Gel/Soap,Korea,New entry
+887,888,Cornetto,Ice-cream,Regional,New entry
+888,889,Sisley,Cosmetics/Skincare Product,Regional,New entry
+889,890,Sanyuan,Milk,"China, Taiwan",899
+890,891,Grand Formosa Regent,Hotel,Taiwan,New entry
+891,892,Hyosung,Motorcycle,Korea,New entry
+892,893,Rivers,Men’s Fashion Retailer,Australia,865
+893,894,Kolon,Sporting Apparel,Korea,New entry
+894,895,Clorets,Chewing/Bubble Gum/Sweets and Candy,Southeast Asia,751
+895,896,Twinings,Tea,Regional,447
+896,897,OB,Beer,Korea,817
+897,898,GUM,Toothpaste,"Hong Kong, China, Japan",New entry
+898,899,Nate,Social Networking Site/Internet Search Engine,Korea,652
+899,900,Sina,Social Networking Site,China,402
+900,901,Daiichi Life,Insurance,Japan,912
+901,902,566,Shampoo,China,New entry
+902,903,Aigo,Digital Products,China,New entry
+903,904,UHA Mikakuto,Sweets and Candy,Japan,New entry
+904,905,Ajinomoto,Sauce/Condiment,"Japan, Korea, Southeast Asia",747
+905,906,Tully’s,Coffee,"Japan, Korea, Singapore",942
+906,907,Chi Mei,TV,Taiwan,New entry
+907,908,Tooheys,Beer,Australia,New entry
+908,909,Daelim,Motorcycle,Korea,816
+909,910,Imperial,Personal care,Regional,New entry
+910,911,Hera,Female Skincare Product,Korea,924
+911,912,Toll,Courier Company,Australia,New entry
+912,913,GS,Supermarket,Korea,600
+913,914,Himalaya,Mineral Water,India,New entry
+914,915,Fancl,Female Skincare Product,"Hong Kong, Singapore",824
+915,916,Proton,Automobile/Car,Malaysia,New entry
+916,917,Safi,Personal care,Regional,New entry
+917,918,Wei-Wei,Instant Noodles,China,New entry
+918,919,Jack Daniel,Spirits,Regional,655
+919,920,Terry White,Pharmacy/Drugstore,Australia,750
+920,921,Gerber,Baby Food (excluding milk powder),Regional,445
+921,922,Uniqlo,Men’s and Women’s Fashion Retailer,"China, Hong Kong, Japan",621
+922,923,Swipe,Detergent,Regional,New entry
+923,924,Bingrae,Ice-cream,Korea,New entry
+924,925,Mie Sedap,Instant Noodles,Southeast Asia,New entry
+925,926,Victoria Bitter (VB),Beer,Australia,878
+926,927,Koikeya,Savoury snack food,Japan,New entry
+927,928,Wakodo,Baby Food (excluding milk powder),"Japan, Korea",666
+928,929,Michael Hill,Jewellery,Australia,New entry
+929,930,Florsheim,Men’s Shoes,Regional,New entry
+930,931,Mövenpick,Ice-cream,Regional,New entry
+931,932,Da Da,Chewing/Bubble Gum,"China, Hong Kong",858
+932,933,Fresh Delight,Dairy Products,Regional,New entry
+933,934,Dentiste,Toothpaste,Regional,New entry
+934,935,Duroyal,Ice-cream,Taiwan,618
+935,936,Center Fresh,Chewing/Bubble Gum,India,647
+936,937,M-Sport,Sports Drink,Thailand,New entry
+937,938,Dabur,Toothpaste,India,New entry
+938,939,SPD Bank,Bank,China,New entry
+939,940,City Super,Supermarket,Hong Kong,New entry
+940,941,PAL,Pet Food,"Australia, Hong Kong",864
+941,942,Royce’/Royce,Chocolate,"Hong Kong, Singapore",New entry
+942,943,Morning Fresh,Detergent,Australia,905
+943,944,Soo Kee (SKJ),Jewellery,Singapore,960
+944,945,Suncorp,Financial Service,Australia,New entry
+945,946,Ottogi,Sauce/Condiment,Korea,904
+946,947,Carlton,Beer,Australia,New entry
+947,948,Fuji (Restaurant chain),Restaurant Chain,Thailand,955
+948,949,Revive isotonic,Sports Drink,Malaysia,766
+949,950,Frooti,Fruit Juice,India,New entry
+950,951,Heaven & Earth,Ready-to-drink Tea,Singapore,New entry
+951,952,CBA,Bank,Australia,New entry
+952,953,Fair And Handsome,Male Skincare Product,India,961
+953,954,Saizeriya,Restaurant Chain,Japan,New entry
+954,955,Guangdong Development,Bank,China,New entry
+955,956,Ricoh,Digital Products,Regional,New entry
+956,957,Miele,Consumer Electronics,Regional,New entry
+957,958,Heart Beat,Sweets and Candy,Australia,998
+958,959,Mei Ri C,Fruit Juice,Taiwan,922
+959,960,Cesar,Pet Food,"Japan, Korea, Southeast Asia",643
+960,961,Royal,Pet Food,"China, Taiwan",873
+961,962,Asience,Shampoo,Regional,New entry
+962,963,Otafuku,Food,Japan,New entry
+963,964,Wu Yang,Ice-cream,China,New entry
+964,965,Tommy Hilfiger,Fragrance/Men’s Fashion Retailer,Regional,721
+965,966,Café Amazon,Coffee Shop,Thailand,New entry
+966,967,Kerasys,Shampoo,Korea,New entry
+967,968,Pigeon,Baby Product,Regional,New entry
+968,969,Thums Up,Carbonated Soft Drink,India,792
+969,970,Hogs Breath,Restaurant Chain,Australia,New entry
+970,971,Kinmen Kao Liang,Spirits,Taiwan,867
+971,972,Bank of Communications,Bank,"China, Hong Kong",New entry
+972,973,Ginvera,Shower Gel/Soap,"Malaysia, Singapore",911
+973,974,Shin Kong Life Insurance,Insurance,Taiwan,872
+974,975,Nippon Express,Courier Company,Regional,New entry
+975,976,Centara,Hotel,Thailand,New entry
+976,977,IT,Men’s and Women’s Fashion Retailer,"China, Hong Kong",729
+977,978,Australia post,Courier Company,Australia,New entry
+978,979,Gogo no Kocha,Ready-to-drink Tea,Japan,New entry
+979,980,Mister Donut,Fast-Food,Japan,New entry
+980,981,99 Speedmart,Convenience Store,Malaysia,New entry
+981,982,Fosters,Beer,Australia,921
+982,983,The Professional Couriers,Courier Company,India,New entry
+983,984,XXXX,Beer,Australia,New entry
+984,985,Hana,Bank,Korea,New entry
+985,986,Park Avenue,Personal Care/Men’s Shoes,India,New entry
+986,987,Sansui,DVD Player,"China, India, Japan",902
+987,988,Magnum,Ice-cream,Regional,New entry
+988,989,Taster’s Choice,Coffee,Regional,New entry
+989,990,Fossil,Jewellery/Watch,"Singapore, Australia",New entry
+990,991,Arun,Ice-cream,India,New entry
+991,992,Aviva,Insurance,Regional,New entry
+992,993,Double Happiness,Cigarette,China,New entry
+993,994,Bacardi,Spirits,Regional,New entry
+994,995,Leconte,Chocolate,China,928
+995,996,Devondale,Dairy Products,Australia,New entry
+996,997,More,Supermarket,India,New entry
+997,998,Corona,Beer,Regional,New entry
+998,999,Harvey Fresh,Fruit Juice,Australia,New entry
+999,1000,Gatsby,Male Skincare Product,Regional,953

@@ -45,7 +45,7 @@ if __name__ == '__main__':
     # ## Logging
 
     # Dedupe uses Python logging to show or suppress verbose output. This
-    # code block lets you change the level of loggin on the command
+    # code block lets you change the level of logging on the command
     # line. You don't need it if you don't want that. To enable verbose
     # logging, run `python examples/csv_example/csv_example.py -v`
     optp = optparse.OptionParser()
