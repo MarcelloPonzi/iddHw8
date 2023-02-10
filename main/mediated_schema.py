@@ -103,8 +103,6 @@ def append_lines(file_path):
 
 cwd = os.getcwd()
 print("Current Working Directory is: "+cwd)
-# DECOMMENTARE LA SEGUENTE ISTRUZIONE SE SI LAVORA IN VSCODE
-os.chdir("main")
 
 # Una volta eseguita la funzione non serve rifarlo ogni volta
 # append_lines("../DatasetHW8Formattato/DDD-companiesmarketcap.com.csv")

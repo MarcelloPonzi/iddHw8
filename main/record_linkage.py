@@ -7,12 +7,6 @@ import optparse
 import dedupe
 from unidecode import unidecode
 
-# Per VSCODE c'è sempre il problema della working directory.
-# Qui l'istruzione da decommentare se si vuole eseguire il codice
-# in VSCODE
-os.chdir("main")
-
-
 def preProcess(column):
     """
     Do a little bit of data cleaning with the help of Unidecode and Regex.
@@ -35,7 +29,7 @@ def readData(filename):
     """
 
     data_d = {}
-    with open(filename) as f:
+    with open(filename, encoding="utf8") as f:
         reader = csv.DictReader(f)
         for row in reader:
             clean_row = [(k, preProcess(v)) for (k, v) in row.items()]
@@ -153,7 +147,7 @@ if __name__ == '__main__':
                 "confidence_score": score
             }
 
-    with open(output_file, 'w') as f_output, open(input_file) as f_input:
+    with open(output_file, 'w', encoding="utf8") as f_output, open(input_file, encoding="utf8") as f_input:
 
         reader = csv.DictReader(f_input)
         fieldnames = ['Cluster ID', 'confidence_score'] + reader.fieldnames
