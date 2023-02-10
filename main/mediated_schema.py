@@ -43,7 +43,7 @@ def put_all_columns_in_lowercase(folder_path):
 
         # Salva in csv dentro la directory specificata come parametro.
         # Se la directory non esiste, la crea.
-        output_directory_path = "./DatasetHW8Lowercase/"
+        output_directory_path = "../DatasetHW8Lowercase/"
         is_exist = os.path.exists(output_directory_path)
         if not is_exist:
             os.makedirs(output_directory_path)
@@ -65,10 +65,15 @@ def dataset_to_dataframe_array(folder_path):
 ### FINE FUNZIONI DI SUPPORTO ###
 #################################
 
+cwd = os.getcwd()
+print("Current Working Directory is: "+cwd)
+# DECOMMENTARE LA SEGUENTE ISTRUZIONE SE SI LAVORA IN VSCODE
+# os.chdir("main")
+
 # Una volta eseguita la funzione non serve rifarlo ogni volta
 put_all_columns_in_lowercase('../DatasetHW8Formattato/')
 
-df_array = dataset_to_dataframe_array('DatasetHW8Lowercase/')
+df_array = dataset_to_dataframe_array('../DatasetHW8Lowercase/')
 print(df_array)
 
 df_merged = pd.DataFrame(columns=["name"])
@@ -80,6 +85,14 @@ for df in df_array:
     df_merged = df_merged.merge(df, how='outer', on=None)   # on=None fa in modo che il merge sia automatico sulle colonne in comune
     print("merged " + str(i))   # contatore per capire l'avanzamento
     i = i + 1
+
+## SALVATAGGIO DEL MERGED DATASET
+
+# Controlla se esiste la directory di output, in caso contrario la crea
+output_directory_path = "../MergedDS"
+if not os.path.exists(output_directory_path):
+    os.makedirs(output_directory_path)
+    print("Directory di output creata!")
 # Salva i risultati in un file json
 df_merged.to_json("../MergedDS/ds_output.json")
 # Salva i risultati in un file csv
