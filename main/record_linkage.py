@@ -7,6 +7,11 @@ import optparse
 import dedupe
 from unidecode import unidecode
 
+# Per VSCODE c'è sempre il problema della working directory.
+# Qui l'istruzione da decommentare se si vuole eseguire il codice
+# in VSCODE
+os.chdir("main")
+
 
 def preProcess(column):
     """

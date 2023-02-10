@@ -61,6 +61,42 @@ def dataset_to_dataframe_array(folder_path):
     return df_array
 
 
+# La seguente funzione sistema il dataset DDD-companiesmarketcap.com.csv
+# in cui alcune righe vanno a capo in modo errato. 
+def append_lines(file_path):
+    # Open the file for reading
+    with open(file_path, 'r', encoding="utf8") as file:
+        # Read the file line by line
+        lines = file.readlines()
+
+    # Create a new list to store the modified lines
+    new_lines = []
+
+    # Keep track of the previous line
+    prev_line = ""
+
+    # Loop through each line in the file
+    for line in lines:
+        print("LINE = " + line)
+        print("PREVIOUS LINE = " + prev_line)
+        # If the line starts with double quotes, append it to the previous line
+        if line.startswith('"'):
+            prev_line = prev_line.strip() + line
+            print("PREVIOUS lINE IN THE IF CONDITION = " + prev_line)
+        # Otherwise, add the previous line to the new list of lines, and reset the previous line
+        else:
+            new_lines.append(prev_line)
+            prev_line = line
+
+    # Add the last line to the new list of lines
+    new_lines.append(prev_line)
+
+    # Open the file for writing
+    with open(file_path+"2", 'w', encoding="utf8") as file:
+        # Write the modified lines back to the file
+        for line in new_lines:
+            file.write(line)
+
 #################################
 ### FINE FUNZIONI DI SUPPORTO ###
 #################################
@@ -68,9 +104,10 @@ def dataset_to_dataframe_array(folder_path):
 cwd = os.getcwd()
 print("Current Working Directory is: "+cwd)
 # DECOMMENTARE LA SEGUENTE ISTRUZIONE SE SI LAVORA IN VSCODE
-# os.chdir("main")
+os.chdir("main")
 
 # Una volta eseguita la funzione non serve rifarlo ogni volta
+# append_lines("../DatasetHW8Formattato/DDD-companiesmarketcap.com.csv")
 put_all_columns_in_lowercase('../DatasetHW8Formattato/')
 
 df_array = dataset_to_dataframe_array('../DatasetHW8Lowercase/')
