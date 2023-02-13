@@ -3,9 +3,12 @@ import csv
 import re
 import logging
 import optparse
+import time
 
 import dedupe
+import pandas as pd
 from unidecode import unidecode
+
 
 def preProcess(column):
     """
@@ -62,13 +65,28 @@ if __name__ == '__main__':
 
     # ## Setup
 
-    input_file = '../MergedDS/ds_output-filtered.csv'
+    # usare questo se si vuole usare il dataset completo
+    # input_file = '../MergedDS/ds_output-filtered.csv'
+
+    # WORKAROUND : dataset creato appositamente per l'evaluation
+    # il separatore ';' non viene letto correttamente per qualche motivo
+    # per cui apriamo il file e lo facciamo esportare da python così gli piace
+    ds = pd.read_csv('Dataset_dummy_semicolon_delimited.csv', sep=';')
+    ds.to_csv('Dataset_dummy.csv')
+
+    # usare questo se si vuole usare il sub-dataset su cui conosciamo i giusti cluster ID
+    # input_file = 'ds-to-rl-COMMADEL.csv'
+    input_file = 'Dataset_dummy.csv'
+
     output_file = 'ds_with_confidenceScore.csv'
     settings_file = './DedupeConfigFiles/csv_example_learned_settings'
     training_file = './DedupeConfigFiles/csv_example_training.json'
 
+    st = time.time()
     print('importing data ...')
     data_d = readData(input_file)
+    et = time.time()
+    print('Tempo di lettura del dataset: ', (et - st), 'secondi')
 
     # If a settings file already exists, we'll just load that and skip training
     if os.path.exists(settings_file):
@@ -85,7 +103,10 @@ if __name__ == '__main__':
             {'field': 'stock', 'type': 'String', 'has missing': True},
             {'field': 'ceo', 'type': 'String', 'has missing': True},
             {'field': 'founded_year', 'type': 'String', 'has missing': True},
-            ]
+            {'field': 'industry', 'type': 'String', 'has missing': True},
+            {'field': 'web_page', 'type': 'String', 'has missing': True},
+            {'field': 'market_cap', 'type': 'String', 'has missing': True},
+        ]
 
         # Create a new deduper object and pass our data model to it.
         deduper = dedupe.Dedupe(fields)
@@ -130,10 +151,11 @@ if __name__ == '__main__':
     # believes are all referring to the same entity.
 
     print('clustering...')
+    st = time.time()
     clustered_dupes = deduper.partition(data_d, 0.5)
-
+    et = time.time()
     print('# duplicate sets', len(clustered_dupes))
-
+    print('Durata del clustering ', et - st, 'secondi')
     # ## Writing Results
 
     # Write our original data back out to a CSV with a new column called

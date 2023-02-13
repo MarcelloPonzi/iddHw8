@@ -1,7 +1,7 @@
 import pandas as pd
 import os
 from pathlib import Path
-
+import time
 
 ############################
 ### FUNZIONI DI SUPPORTO ###
@@ -113,6 +113,7 @@ print(df_array)
 
 df_merged = pd.DataFrame(columns=["name"])
 i = 0
+st = time.time()
 # Fa il merge dei df
 for df in df_array:
     df = df.applymap(
@@ -120,7 +121,8 @@ for df in df_array:
     df_merged = df_merged.merge(df, how='outer', on=None)   # on=None fa in modo che il merge sia automatico sulle colonne in comune
     print("merged " + str(i))   # contatore per capire l'avanzamento
     i = i + 1
-
+lapsed_time = time.time() - st
+print("Tempo di esecuzione del merge: " + time.strftime("%H:%M:%S", time.gmtime(lapsed_time)))
 ## SALVATAGGIO DEL MERGED DATASET
 
 # Controlla se esiste la directory di output, in caso contrario la crea
