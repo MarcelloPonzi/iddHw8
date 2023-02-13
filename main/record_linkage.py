@@ -135,6 +135,9 @@ if __name__ == '__main__':
         # blocking predicates
         deduper.train()
 
+        if not os.path.exists('./DedupeConfigFiles'):
+            os.makedirs('./DedupeConfigFiles')
+
         # When finished, save our training to disk
         with open(training_file, 'w') as tf:
             deduper.write_training(tf)
