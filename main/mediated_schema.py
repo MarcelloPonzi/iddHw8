@@ -108,6 +108,9 @@ print("Current Working Directory is: "+cwd)
 # append_lines("../DatasetHW8Formattato/DDD-companiesmarketcap.com.csv")
 put_all_columns_in_lowercase('../DatasetHW8Formattato/')
 
+
+## FASE DI MERGE 
+
 df_array = dataset_to_dataframe_array('../DatasetHW8Lowercase/')
 print(df_array)
 
